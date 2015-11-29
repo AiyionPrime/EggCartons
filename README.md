@@ -1,5 +1,5 @@
 # EggCartons
-A virtual represantation of egg-cartons (a modulo and floor() example)
+A virtual representation of egg-cartons (a modulo and floor() example)
     EggCartons shows the proper distribution of eggs in an amount of cartons.
     Initialize it with an amount of eggs and it holds the amount of boxes
     needed to contain these eggs and the amount of eggs, that are left over
